@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	
-	"github/com/kylie-sre/multimod/subscriptions"
+	"github.com/kylie-sre/multimod/subscriptions"
 )
 
 func main() {
