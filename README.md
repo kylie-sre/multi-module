@@ -6,7 +6,7 @@ example repo demonstrating how to use go modules to enforce isolation between co
 
 ### Isolation
 
-You can see how test the isolation by running:
+You can test the isolation by running:
 
 ```bash
 $ mkdir multimod && cd multimod          
